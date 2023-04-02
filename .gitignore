@@ -1,0 +1,6 @@
+*.replit
+Makefile
+*-debug
+*.out
+*.nix
+.ccls-cache
