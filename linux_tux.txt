@@ -1,0 +1,23 @@
+                     ,"""""""""""""""""""""""""""""".
+                     |         GEEKIOUS:            |
+                     |                              |
+                     | Greetings, fellow curious    |
+                     | explorer of mathematics!     |
+                     | The main reason I wrote this | 
+                     | code was to test my C++      |
+         _nnnn_      | skills, but feel free to use |
+        dGGGGMMb     | this for your own purposes.  |
+       @p~qp~~qMb    |     Also, Install Linux!     |
+       M|@||@) M|   _;..............................'
+       @,----.JM| -'
+      JS^\__/  qKL
+     dZP        qKRb
+    dZP          qKKb
+   fZP            SMMb
+   HZM            MMMM
+   FqM            MMMM
+ __| ".        |\dS"qML
+ |    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMM|   .'
+     `-'       `--'
